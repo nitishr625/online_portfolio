@@ -2,7 +2,7 @@ import React from "react";
 import CTA from "./CTA";
 import "./Header.css";
 import HeaderSocial from "./HeaderSocial";
-import image from "../../assets/image1.png/";
+import image from "../../assets/image.jpg/";
 function Header() {
   return (
     <header>
@@ -13,7 +13,8 @@ function Header() {
         <CTA />
 
         <HeaderSocial />
-
+        <br />
+        <br />
         <div className="me">
           <img src={image} alt="image" />
         </div>

@@ -2,7 +2,7 @@ import React from "react";
 import "./About.css";
 import { FaAward, FaSuitcase } from "react-icons/fa";
 import { VscFolderOpened } from "react-icons/vsc";
-import image from "../../assets/image2.png";
+import image from "../../assets/image2.jpeg";
 
 function About() {
   return (
@@ -33,7 +33,7 @@ function About() {
             <article className="about__card">
               <VscFolderOpened className="about__icon" />
               <h5>Projects</h5>
-              <small>4 projects completed</small>
+              <small>6 projects completed</small>
             </article>
           </div>
           <p> I aim at developing better software for the smarter future.</p>
