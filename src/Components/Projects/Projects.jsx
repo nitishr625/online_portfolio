@@ -48,11 +48,10 @@ const data = [
 
   {
     id: 6,
-    image:
-      "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg",
-    title: "Coming Soon..",
-    github: "#",
-    demo: "#",
+    image: "https://cdn-media-1.freecodecamp.org/ghost/2019/01/store-1.png",
+    title: "Ecommerce Website using React",
+    github: "https://github.com/nitishr625/E-Store.git",
+    demo: "https://nitishr625.github.io/E-Store/",
   },
 ];
 
